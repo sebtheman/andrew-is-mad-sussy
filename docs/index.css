@@ -1,0 +1,19 @@
+body {
+    background-color: #00ff0d;
+}
+#homepage_button {
+    background-color: aqua;
+    border-width: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+.andrew-mad-sussy_container {
+    background-color: #424d42;
+    border-style: solid;
+    border-color: #3a3f3a;
+    border-width: 10px;
+    border-radius: 10px;
+}
